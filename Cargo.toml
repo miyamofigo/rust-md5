@@ -1,0 +1,7 @@
+[package]
+name = "md5"
+version = "0.1.0"
+authors = ["Takeo Miyamoto <miyamofigo@gmail.com>"]
+
+[dependencies.bytebuffer]
+git = "https://github.com/miyamofigo/rust-bytebuffer.git"
